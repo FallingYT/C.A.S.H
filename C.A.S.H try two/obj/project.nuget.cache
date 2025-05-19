@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cd0hN+lZZPI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wenni\\source\\repos\\C.A.S.H try two\\C.A.S.H try two\\C.A.S.H.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wenni\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}

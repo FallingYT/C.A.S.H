@@ -1,0 +1,16 @@
+C:\Users\wenni\source\repos\C.A.S.H try two\C.A.S.H try two\bin\Debug\net8.0-windows\C.A.S.H try two.exe
+C:\Users\wenni\source\repos\C.A.S.H try two\C.A.S.H try two\bin\Debug\net8.0-windows\C.A.S.H try two.deps.json
+C:\Users\wenni\source\repos\C.A.S.H try two\C.A.S.H try two\bin\Debug\net8.0-windows\C.A.S.H try two.runtimeconfig.json
+C:\Users\wenni\source\repos\C.A.S.H try two\C.A.S.H try two\bin\Debug\net8.0-windows\C.A.S.H try two.dll
+C:\Users\wenni\source\repos\C.A.S.H try two\C.A.S.H try two\bin\Debug\net8.0-windows\C.A.S.H try two.pdb
+C:\Users\wenni\source\repos\C.A.S.H try two\C.A.S.H try two\obj\Debug\net8.0-windows\C.A.S.H_try_two.Form1.resources
+C:\Users\wenni\source\repos\C.A.S.H try two\C.A.S.H try two\obj\Debug\net8.0-windows\C.A.S.H try two.csproj.GenerateResource.cache
+C:\Users\wenni\source\repos\C.A.S.H try two\C.A.S.H try two\obj\Debug\net8.0-windows\C.A.S.H try two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wenni\source\repos\C.A.S.H try two\C.A.S.H try two\obj\Debug\net8.0-windows\C.A.S.H try two.AssemblyInfoInputs.cache
+C:\Users\wenni\source\repos\C.A.S.H try two\C.A.S.H try two\obj\Debug\net8.0-windows\C.A.S.H try two.AssemblyInfo.cs
+C:\Users\wenni\source\repos\C.A.S.H try two\C.A.S.H try two\obj\Debug\net8.0-windows\C.A.S.H try two.csproj.CoreCompileInputs.cache
+C:\Users\wenni\source\repos\C.A.S.H try two\C.A.S.H try two\obj\Debug\net8.0-windows\C.A.S.H try two.dll
+C:\Users\wenni\source\repos\C.A.S.H try two\C.A.S.H try two\obj\Debug\net8.0-windows\refint\C.A.S.H try two.dll
+C:\Users\wenni\source\repos\C.A.S.H try two\C.A.S.H try two\obj\Debug\net8.0-windows\C.A.S.H try two.pdb
+C:\Users\wenni\source\repos\C.A.S.H try two\C.A.S.H try two\obj\Debug\net8.0-windows\C.A.S.H try two.genruntimeconfig.cache
+C:\Users\wenni\source\repos\C.A.S.H try two\C.A.S.H try two\obj\Debug\net8.0-windows\ref\C.A.S.H try two.dll
